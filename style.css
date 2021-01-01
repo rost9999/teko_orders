@@ -18,13 +18,13 @@
     font-size: 50px;
     padding: 30px;
 }
-form{
+.blockForm{
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     padding-bottom: 10px;border-radius: 10px;
     margin-left: 5px;
     margin-right: 5px;
 }
-form:hover{
+.blockForm:hover{
     box-shadow: 0 0 10px rgba(190, 68, 68, 0.5);
 }
 .form-raist{
